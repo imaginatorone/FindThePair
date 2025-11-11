@@ -43,14 +43,14 @@ npm run preview
 ---
 
 ## Деплой
-В `vite.config.js` указан корректный base для предотвращения проблем с регистром (важен слеш в конце и точное имя репо):
+В `vite.config.js` указан корректный `base` для предотвращения проблем с регистром (важен слеш в конце и точное имя репо):
 ```js
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/findthepair/',
+  base: '/findthepair/', // <----- здесь
 })
 ```
 
