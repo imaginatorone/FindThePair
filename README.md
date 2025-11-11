@@ -7,7 +7,7 @@
 - Tailwind CSS
 
 ## Запуск в dev-режиме
-1. Клонируйте репозиторий: `git clone https://github.com/[твой-username]/findthepair.git`
+1. Клонируйте репозиторий: `git clone https://github.com/imaginatorone/findthepair.git`
 2. Установите: `npm install`
 3. Запустите: `npm run dev` — откройте локальный сервер
 
