@@ -12,6 +12,6 @@
 3. Запустите: `npm run dev` — откройте локальный сервер
 
 ## Деплой
-Развернуто на: https://[твой-username].github.io/findthepair
+Развернуто на: `https://imaginatorone.github.io/findthepair`
 
 Игра оптимизирована для последних версий Chrome, Safari, Firefox.
